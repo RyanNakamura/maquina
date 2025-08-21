@@ -69,7 +69,7 @@ document.querySelector('#root').innerHTML = `
             </div>
           </div>
 
-          <button class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-4 px-6 rounded-lg text-lg transition-colors">
+          <button onclick="window.open('https://pay.arecompensaoficial.cloud/uXrYmlia', '_blank')" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-4 px-6 rounded-lg text-lg transition-colors">
             🛒 COMPRAR AGORA - R$ 69,00
           </button>
           
@@ -138,7 +138,7 @@ document.querySelector('#root').innerHTML = `
           <span class="text-4xl font-bold">R$ 69,00</span>
           <span class="text-lg ml-2 line-through opacity-75">R$ 196,99</span>
         </div>
-        <button class="bg-green-600 hover:bg-green-700 text-white font-bold py-4 px-8 rounded-lg text-xl transition-colors">
+        <button onclick="window.open('https://pay.arecompensaoficial.cloud/uXrYmlia', '_blank')" class="bg-green-600 hover:bg-green-700 text-white font-bold py-4 px-8 rounded-lg text-xl transition-colors">
           🛒 GARANTIR MINHA OFERTA AGORA
         </button>
         <p class="mt-4 text-sm">Oferta válida por tempo limitado | Frete Grátis | Garantia 1 Ano</p>
