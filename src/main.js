@@ -16,8 +16,8 @@ document.querySelector('#root').innerHTML = `
     <!-- Oferta principal -->
     <div class="bg-orange-600 text-white px-4 py-3 mx-4 rounded-lg mt-4">
       <div class="flex items-center justify-between">
-        <div class="flex items-baseline gap-1">
-          <span class="text-2xl font-bold whitespace-nowrap">R$ 69,00</span>
+        <div class="price-container">
+          <span class="price-text">R$ 69,00</span>
           <span class="text-sm opacity-90">65% OFF</span>
         </div>
         <div class="bg-black bg-opacity-20 px-3 py-1 rounded text-sm font-semibold">
