@@ -6,7 +6,7 @@ document.querySelector('#root').innerHTML = `
     <!-- Header com logo -->
     <header class="bg-white shadow-sm px-4 py-3">
       <div class="max-w-6xl mx-auto flex items-center justify-between">
-        <img src="/lovable-uploads/eletroprime-logo-new-DSU3K9vw.png" alt="EletroPrime" class="h-8">
+        <img src="/eletroprime-logo-new-DSU3K9vw.png" alt="EletroPrime" class="h-8">
         <div class="text-sm text-gray-600">
           <span class="font-semibold">Frete Grátis</span> para todo Brasil
         </div>
@@ -39,7 +39,7 @@ document.querySelector('#root').innerHTML = `
     <div class="max-w-6xl mx-auto px-4 py-8">
       <div class="grid md:grid-cols-2 gap-8 items-center">
         <div>
-          <img src="/lovable-uploads/14337539-3779-44f4-a544-8066ecaabd64.png" alt="Kit de Furadeira Multifuncional" class="w-full rounded-lg shadow-lg">
+          <img src="/14337539-3779-44f4-a544-8066ecaabd64.png" alt="Kit de Furadeira Multifuncional" class="w-full rounded-lg shadow-lg">
         </div>
         <div>
           <h1 class="text-3xl font-bold text-gray-900 mb-4">
@@ -85,10 +85,10 @@ document.querySelector('#root').innerHTML = `
       <div class="max-w-6xl mx-auto px-4">
         <h2 class="text-2xl font-bold text-center mb-8">Veja o Kit Completo</h2>
         <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-          <img src="/lovable-uploads/3050a206-4579-44ff-98a6-ab8d93ec9242.png" alt="Furadeira" class="w-full rounded-lg shadow">
-          <img src="/lovable-uploads/3158d6a9-a80e-4bc7-9145-d9812995017b.png" alt="Acessórios" class="w-full rounded-lg shadow">
-          <img src="/lovable-uploads/5aa0c82c-e71d-41b1-8e1a-23a526064b7f.png" alt="Brocas" class="w-full rounded-lg shadow">
-          <img src="/lovable-uploads/63b6ffce-fe37-4b93-9512-b95c755be802.png" alt="Kit Completo" class="w-full rounded-lg shadow">
+          <img src="/3050a206-4579-44ff-98a6-ab8d93ec9242.png" alt="Furadeira" class="w-full rounded-lg shadow">
+          <img src="/3158d6a9-a80e-4bc7-9145-d9812995017b.png" alt="Acessórios" class="w-full rounded-lg shadow">
+          <img src="/5aa0c82c-e71d-41b1-8e1a-23a526064b7f.png" alt="Brocas" class="w-full rounded-lg shadow">
+          <img src="/63b6ffce-fe37-4b93-9512-b95c755be802.png" alt="Kit Completo" class="w-full rounded-lg shadow">
         </div>
       </div>
     </div>
